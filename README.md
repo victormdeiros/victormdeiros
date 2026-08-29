@@ -8,7 +8,7 @@
 
 ### Eu transformo problemas complexos em produtos simples, úteis e escaláveis.
 
-**Founder @ Hub ConverseIA · Lead Developer · Product Builder**
+**Founder @ ScaleX HUB · Lead Developer · Product Builder**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-medeiros-24a414176/)
 [![GitHub](https://img.shields.io/badge/GitHub-Acompanhar-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victormdeiros)
@@ -19,7 +19,7 @@
 
 ## Construo na interseção entre negócio e tecnologia
 
-Sou **sócio fundador da Hub ConverseIA**. Atuo da descoberta do problema à entrega do produto, conectando estratégia, arquitetura, experiência e execução.
+Sou **sócio fundador da ScaleX HUB**. Atuo da descoberta do problema à entrega do produto, conectando estratégia, arquitetura, experiência e execução.
 
 Mais do que desenvolver software, gosto de criar sistemas que eliminam atrito, organizam operações e ajudam pessoas e empresas a tomar decisões melhores.
 
@@ -39,6 +39,21 @@ Mais do que desenvolver software, gosto de criar sistemas que eliminam atrito, o
     </td>
   </tr>
 </table>
+
+## Onde construo
+
+**[ScaleX HUB](https://github.com/ScaleX-HUB)** — o estúdio. Produto, engenharia e IA a partir de Recife. É aqui que mora o processo, a plataforma e os sites de cliente.
+
+Também faço parte de:
+
+| Org | Papel |
+|:---|:---|
+| **[ScaleX HUB](https://github.com/ScaleX-HUB)** | Founder · estúdio principal |
+| [SCALEXHUB-IA](https://github.com/SCALEXHUB-IA) | ScaleX · iniciativas de IA |
+| [PROJETO ACSA](https://github.com/PROJETO-ACSA) | Projeto ACSA |
+| [GOMAPET](https://github.com/GOMAPET) | GOMAPET |
+
+---
 
 ## Da ideia à operação
 
