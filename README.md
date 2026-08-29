@@ -49,6 +49,7 @@ Também faço parte de:
 | Org | Papel |
 |:---|:---|
 | **[ScaleX HUB](https://github.com/ScaleX-HUB)** | Founder · estúdio principal |
+| [Soluttions](https://github.com/Soluttions-Tech) | Lidero todos os desenvolvimentos. A org existe para escalar soluções de impacto mundial |
 | [SCALEXHUB-IA](https://github.com/SCALEXHUB-IA) | ScaleX · iniciativas de IA |
 | [PROJETO ACSA](https://github.com/PROJETO-ACSA) | Projeto ACSA |
 | [GOMAPET](https://github.com/GOMAPET) | GOMAPET |
